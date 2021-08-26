@@ -1,21 +1,49 @@
-# Intro To Python: Week 1 Day 4
+# Intro To Python: Week 2 Day 1
 
 ## Terminal Learning Objectives
+- 
+- 
 
 ## Enabling Learning Objectives
+- 
+- 
+- 
+- 
 
-## Day 3 Feedback & Review
+### Task 1
+- [ ]
+- [ ]
+
+### Task 2
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+
+
+### Task 3
+- [ ]
+- [ ]
+- [ ]
 
 ### Topics/Series
-Dictionaries
-Functions
-Scope
-Switch Statement
+- 
+- 
+- 
 
-## Git Push
+### Exercise
 
-## Weekly Assignment
-
-## Retrospective
+### Environment Setup
+-
+- 
+- 
+- 
+- 
+- 
 
 ### Resources
+- 
+- 
+- 
+## Retrospective

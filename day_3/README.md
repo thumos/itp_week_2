@@ -1,15 +1,48 @@
-# Intro To Python: Week 1 Day 3
+# Intro To Python: Week 2 Day 1
 
 ## Terminal Learning Objectives
+- 
+- 
 
 ## Enabling Learning Objectives
+- 
+- 
+- 
+- 
 
-## Day 2 Feedback & Review
+### Task 1
+- [ ]
+- [ ]
+
+### Task 2
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+
+
+### Task 3
+- [ ]
+- [ ]
+- [ ]
 
 ### Topics/Series
-Lists
-Loops
+- 
+- 
+- 
 
 ### Exercise
 
+### Environment Setup
+-
+- 
+- 
+- 
+- 
+- 
+
 ### Resources
+- 
+- 
+- 
