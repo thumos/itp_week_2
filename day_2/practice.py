@@ -10,4 +10,4 @@
 #"You threw a poke ball!"
 #"You caught a <Ryachu>"
 
-#Let's re-write the catch pokemon function so it's more fun.  Delete the contents of the catch_pokemon function and the function's parameter.  INSIDE OF THE catch_pokemon FUNCTION, create a string input and assign it to a variable called pokemon.  For the input question, use the prompt "What did you catch?"  Now let's re-write the print statement, but this time have it print out the string input by the user.
+#Let's re-write the catch pokemon function so it's more fun.  Delete the contents of the catch_pokemon function and the function's parameter.  Outside of the catch_pokemon FUNCTION, create a string input and assign it to a variable called pokemon.  For the input question, use the prompt "What did you catch?"  Now let's re-write the print statement, but this time have it print out the pokemon input by the user.

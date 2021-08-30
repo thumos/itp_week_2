@@ -47,9 +47,9 @@ joy(my_global_variable)
 def sadness():
     my_local_variable = "John Wick's dog"
 
-#If you uncomment the following function call you will receive the error message "  File "lecture.py", line 54, in <module>
+#If you uncomment the following function call you will receive the error message 'File "lecture.py", line 54, in <module>
 #     joy(my_local_variable)
-# NameError: name 'my_local_variable' is not defined"
+# NameError: name 'my_local_variable' is not defined"'
 
 #joy(my_local_variable)
 
