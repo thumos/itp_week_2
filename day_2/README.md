@@ -1,52 +1,31 @@
 # Intro To Python: Week 2 Day 1
-Block scope
-functions without arguments
-global scope
-functions with arguments
-run functions with data structures
+
+
 ## Terminal Learning Objectives
-- 
-- 
+- Understand what a function is
+- Understand function scope
+- Understand how to write a function
 
 ## Enabling Learning Objectives
-- 
-- 
-- 
-- 
+- Run functions without arguments
+- Run functions with a  single argument
+- Run functions using variables in the local scope
+- Run funtions using varibles from the global scope
+- Run functions using a data structure as an argument
 
-### Task 1
-- [ ]
-- [ ]
-
-### Task 2
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
-
-
-### Task 3
-- [ ]
-- [ ]
-- [ ]
+## Day 3 Exercise
+- String Len & Range
 
 ### Topics/Series
-- 
-- 
-- 
+Functions
+    -built-in functions
+    -custom/user-built functions
+    -arguments
 
-### Exercise
+## Practice
 
-### Environment Setup
--
-- 
-- 
-- 
-- 
-- 
+## Exercise
 
 ### Resources
-- 
-- 
-- 
+[Automate the Boring Stuff](https://automatetheboringstuff.com/chapter3/)
+[Microsoft](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/differences-between-parameters-and-arguments)

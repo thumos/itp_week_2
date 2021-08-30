@@ -7,8 +7,6 @@
 # There are four collection data types in the Python programming language:
 
 # - List:       ordered and changeable.     Allows duplicate members.
-# - Tuple:      ordered and unchangeable.   Allows duplicate members.
-# - Set:        unordered and unindexed.    No duplicate members.
 # - Dictionary: ordered* and changeable.    No duplicate members.
 
 # LIST
@@ -253,5 +251,3 @@ for x, y in some_dict.items():
 # Exercise
 
 # Git Push
-
-# Weekly Assignment
