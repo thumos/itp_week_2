@@ -31,3 +31,4 @@ Functions
 [Microsoft](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/differences-between-parameters-and-arguments)
 [Real Python](https://realpython.com/python-scope-legb-rule/#:~:text=%20Python%20Scope%20%26%20the%20LEGB%20Rule%3A%20Resolving,a%20special%20use%20case%20of%20the...%20More%20)
 [W3 Schools](https://www.w3schools.com/PYTHON/python_scope.asp)
+[Geeks for Geeks](https://www.geeksforgeeks.org/global-keyword-in-python/)
