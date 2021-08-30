@@ -1,5 +1,9 @@
 # Intro To Python: Week 2 Day 1
-
+Block scope
+functions without arguments
+global scope
+functions with arguments
+run functions with data structures
 ## Terminal Learning Objectives
 - 
 - 
