@@ -1,4 +1,4 @@
-# ITP Week 1 Day 4 Exercise
+# ITP Week 2 Day 1 Exercise
 
 
 # Dictionary Loop

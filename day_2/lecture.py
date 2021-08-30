@@ -28,3 +28,29 @@ def multi_parameter(param1, param2, param3):
     print("My name is " + param1 + " " + param2 + ", and I live in " + param3 + ".")
 
 multi_parameter("Tyler", "Pritchard", "Oakland")
+
+#Function parameters can be any data type, including numbers, booleans, dictionaries, and even other functions!  You can assign your data & functions to different variables, and then tie the varables together in different ways for endless computing possibilities.  Large applications are just many functions contained within different files, all connected in some way and all communicating with each other.  
+
+#The concept of scope rules how variables and names are looked up in your code. It determines the visibility of a variable within the code. The scope of a name or variable depends on the place in your code where you create that variable.
+
+#Global Scope: A variable in the global scope exists outside of functions, and is therefore available to all functions.
+
+my_global_variable = "Joy to the world"
+
+def joy(some_variable):
+    print(some_variable)
+
+joy(my_global_variable)
+
+#Local Scope: A variable exists inside of a function, and is therefore NOT accessible to other functions outside of the function where that variable was declared.
+
+def sadness():
+    my_local_variable = "John Wick's dog"
+
+#If you uncomment the following function call you will receive the error message "  File "lecture.py", line 54, in <module>
+#     joy(my_local_variable)
+# NameError: name 'my_local_variable' is not defined"
+
+#joy(my_local_variable)
+
+#This is because my_local_variable is contained INSIDE the function sadness(), and is therefore not available to any functions outside of that SCOPE.

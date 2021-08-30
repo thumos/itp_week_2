@@ -1,4 +1,4 @@
-# ITP Week 1 Day 4 (In-Class) Practice
+# ITP Week 2 Day 1 (In-Class) Practice
 
 # Dictionary
 

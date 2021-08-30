@@ -1,4 +1,4 @@
-# Intro To Python: Week 1 Day 4
+# Intro To Python: Week 2 Day 1
 
 ## Terminal Learning Objectives
 - Understand the difference between a list and a dictionary.

@@ -1,6 +1,6 @@
-# ITP Week 1 Day 4 Lecture
+# ITP Week 2 Day 1 Lecture
 
-# Day 3 Exercise
+# Day 4 Exercise
 
 # PYTHON COLLECTIONS (ARRAYS)
 
