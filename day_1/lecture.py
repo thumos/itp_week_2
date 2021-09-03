@@ -24,11 +24,20 @@
 
 # Dictionaries are written with curly brackets, and have keys and values:
 
+# my_car = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 2021,
+#   "interest": 22
+# }
+
 my_car = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 2021,
-  "interest": 22
+}
+
+my_other_cars = {
+    "first_car" : my_car,
+    "second_car" : "honda_civic",
+    "third_car" : 24
 }
 
 # Dictionary items are ordered, changeable, and does not allow duplicates.
